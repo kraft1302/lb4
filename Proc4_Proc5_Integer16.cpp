@@ -92,7 +92,6 @@ int main()
 
     return 0;
 
-
 //Integer16
 
 #include <iostream>
